@@ -6,4 +6,6 @@ Aim of this project is implementing a watchdog process which is significant in l
 
 "watchdog" realizes if the system is disturbed and immediately recreates the standart execution environment.
 
+Project documentation can be reached via index.html file in the Doxygen directory.
+
 Note: executor.cpp is not developed by me, it was already provided to the students.
